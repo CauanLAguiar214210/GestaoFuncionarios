@@ -39,7 +39,7 @@ namespace ConsoleApp14
                         Console.Write("Departamento: ");
                         Departamento depart = new Departamento(Console.ReadLine());
 
-                        Console.Write("Nivel: ");
+                        Console.Write("Nivel: (0)Junior (1)Pleno (2)Senior \nSelecione:");
                         int lvl = int.Parse(Console.ReadLine());
                         WorkerLevel level = (WorkerLevel)lvl;
 

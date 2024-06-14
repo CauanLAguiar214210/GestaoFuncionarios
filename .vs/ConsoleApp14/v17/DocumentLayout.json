@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\consoleapp14\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\consoleapp14\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\cauan\\onedrive\\3 - arquivos pessoais\\documentos\\github\\gestaofuncionarios\\consoleapp14\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\entities\\enum\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\consoleapp14\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C056E3A-9AE8-4DD4-BC11-250C8F89804C}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\consoleapp14\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,21 +29,21 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\ConsoleApp14\\Entities\\Enum\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "ConsoleApp14\\Entities\\Enum\\WorkerLevel.cs",
               "ToolTip": "C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\ConsoleApp14\\Entities\\Enum\\WorkerLevel.cs",
               "RelativeToolTip": "ConsoleApp14\\Entities\\Enum\\WorkerLevel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T21:21:24.485Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -65,14 +65,14 @@
               "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
               "ToolTip": "C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\ConsoleApp14\\Program.cs",
               "RelativeToolTip": "ConsoleApp14\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwCkAAAAsAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T17:42:35.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\cauan\\OneDrive\\3 - Arquivos Pessoais\\Documentos\\GitHub\\GestaoFuncionarios\\ConsoleApp14\\Entities\\Funcionario.cs",
               "RelativeDocumentMoniker": "ConsoleApp14\\Entities\\Funcionario.cs",
@@ -80,8 +80,7 @@
               "RelativeToolTip": "ConsoleApp14\\Entities\\Funcionario.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T17:41:14.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T17:41:14.129Z"
             }
           ]
         }
