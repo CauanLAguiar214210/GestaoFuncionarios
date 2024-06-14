@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Collections.Generic;
 using ConsoleApp14.Entities;
+using ConsoleApp14.Entities.Enum;
 
 namespace ConsoleApp14
 {
@@ -38,10 +39,14 @@ namespace ConsoleApp14
                         Console.Write("Departamento: ");
                         Departamento depart = new Departamento(Console.ReadLine());
 
+                        Console.Write("Nivel: ");
+                        int lvl = int.Parse(Console.ReadLine());
+                        WorkerLevel level = (WorkerLevel)lvl;
+
                         Console.Write("Salario: ");
                         double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                                             
-                        list.Add(new Funcionario(id, nome, salario, depart));
+                        list.Add(new Funcionario(id, nome, salario, depart, level));
                         Console.WriteLine();
                     }
                 }

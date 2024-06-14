@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Departamento.cs" />
+    <Compile Include="Entities\Enum\WorkerLevel.cs" />
     <Compile Include="Entities\Funcionario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
