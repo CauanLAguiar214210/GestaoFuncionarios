@@ -12,3 +12,10 @@ D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.c
 D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
 D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.exe
 D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\cauan\OneDrive\3 - Arquivos Pessoais\Documentos\GitHub\GestaoFuncionarios\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

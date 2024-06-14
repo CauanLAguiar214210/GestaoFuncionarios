@@ -1,17 +1,17 @@
-﻿
-using System;
+﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
-using System.Diagnostics.Eventing.Reader;
+using ConsoleApp14.Entities;
 
 namespace ConsoleApp14
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
 
-            List<Employee> list = new List<Employee>();
+            List<Funcionario> list = new List<Funcionario>();
             char Acao;
 
             do
@@ -31,12 +31,17 @@ namespace ConsoleApp14
                         Console.WriteLine(i + "°Funcionario: ");
                         Console.Write("Id: ");
                         int id = int.Parse(Console.ReadLine());
-                        Console.Write("Nome: ");
-                        string name = Console.ReadLine();
-                        Console.Write("Salario: ");
-                        double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                        list.Add(new Employee(id, name, salary));
+                        Console.Write("Nome: ");
+                        string nome = Console.ReadLine();
+
+                        Console.Write("Departamento: ");
+                        Departamento depart = new Departamento(Console.ReadLine());
+
+                        Console.Write("Salario: ");
+                        double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                                            
+                        list.Add(new Funcionario(id, nome, salario, depart));
                         Console.WriteLine();
                     }
                 }
@@ -46,20 +51,20 @@ namespace ConsoleApp14
                     int searchId = int.Parse(Console.ReadLine());
                     Console.WriteLine();
 
-                    Employee emp = list.Find(x => x.Id == searchId);
+                    Funcionario emp = list.Find(x => x.Id == searchId);
                     if (emp != null)
                     {
-                        Console.Write("Enter the percentage: ");
-                        double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                        emp.IncreaseSalary(percentage);
+                        Console.Write("Informe a Porcentagem: ");
+                        double percentagem = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        emp.AumentarSalario(percentagem);
                     }
                     else
                     {
-                        Console.WriteLine("This id does not exist!");
+                        Console.WriteLine("Id não encontrada!");
                     }
                                         
                     Console.WriteLine("Atualizada Tabela Funcionario:");
-                    foreach (Employee obj in list)
+                    foreach (Funcionario obj in list)
                     {
                         Console.WriteLine(obj);
                     }
@@ -69,7 +74,7 @@ namespace ConsoleApp14
                 else if (Acao == 'L')
                 {
                     Console.WriteLine("Tabela Funcionario:");
-                    foreach (Employee obj in list)
+                    foreach (Funcionario obj in list)
                     {
                         Console.WriteLine(obj);
                     }
