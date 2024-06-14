@@ -1,0 +1,14 @@
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+D:\DEV\2-C#\Uri Online Jugde\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+D:\DEV\2-C#\Uri Online Jugde\Funcionnarios\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
